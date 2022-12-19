@@ -1,0 +1,120 @@
+.main {
+  text-align: center;
+  /* margin: 20px; */
+}
+
+.table {
+  background-color: whitesmoke;
+  width: 100%;
+  margin-bottom: 2vh;
+}
+
+table,
+th,
+td {
+  border: 1px solid grey;
+  border-collapse: collapse;
+}
+
+table,
+th,
+td {
+  border-left: none;
+  border-right: none;
+}
+
+th,
+td {
+  padding: 10px;
+}
+
+.settingsTab {
+  height: 7vh;
+  /* width: 100%; */
+
+  display: flex;
+  margin-bottom: 10px;
+}
+.datePicker {
+  /* width: 50px; */
+  background: "lightblue";
+  align-items: flex-start;
+}
+
+.fromTo {
+  display: flex;
+  height: 5vh;
+  width: 52vw;
+}
+
+.fromItems {
+  border-radius: 5px;
+  border: 1px solid lightgray;
+  padding: 10px;
+  align-items: center;
+}
+
+input {
+  margin-left: 5px;
+}
+
+.settings {
+  height: 5vh;
+  width: 8vw;
+  margin-right: 2vw;
+  border-radius: 5px;
+  border: 1px solid lightgray;
+  margin-left: auto;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.pills {
+  display: flex;
+  /* width: 100%; */
+}
+
+.extraPill {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 3px;
+  align-self: center;
+}
+
+.pill {
+  height: 30px;
+  width: 120px;
+  text-align: center;
+  margin-left: 10px;
+  margin-right: 10px;
+  display: flex;
+  border: 1px solid gray;
+  border-radius: 5px;
+  /* align-items: center; */
+}
+
+.settingsOpen {
+  border: 1px solid lightgrey;
+  border-radius: 10px;
+  /* margin: 5px; */
+  padding: 12px;
+  margin-bottom: 2vh;
+}
+
+.tableCol {
+  display: flex;
+  flex-direction: column;
+}
+
+.apply {
+  background-color: lightblue;
+  height: 21px;
+  width: 90px;
+  border-radius: 10px;
+  margin-right: 5px;
+  align-self: end;
+  margin-bottom: 5px;
+  margin-top: auto;
+}

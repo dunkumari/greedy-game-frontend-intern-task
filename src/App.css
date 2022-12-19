@@ -1,0 +1,17 @@
+.appMain {
+  display: flex;
+}
+
+.part1 {
+  height: 100vh;
+  width: 4vw;
+  background-color: #6082b6;
+}
+
+.part2 {
+  height: 97vh;
+  width: 92vw;
+  padding-right: 2vw;
+  padding-top: 2vh;
+  padding-left: 2vw;
+}
