@@ -1,1 +1,1 @@
-# greedy-game-frontend-intern-task
+# greedy-game-task
