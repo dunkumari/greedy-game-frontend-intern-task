@@ -2,7 +2,7 @@
 
 ---
 Frontend UI 
-<p align="center"><img src="./ui.jpeg" width="800"></p>
+<p align="center"><img src="./ui" width="800"></p>
 ---
 
 ---
